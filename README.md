@@ -74,7 +74,3 @@ Passionate about Web Development and continuously learning modern web technologi
 <p align="center">
 ✨ Always learning, building, and improving.
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gohel-chirag&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gohel-chirag&layout=compact&theme=github_dark)
