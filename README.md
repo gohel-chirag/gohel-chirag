@@ -1,76 +1,78 @@
 <h1 align="center">Hi 👋, I'm Gohel Chirag</h1>
-<h3 align="center">Aspiring Full Stack Web Developer | Rajkot, Gujarat 🇮🇳</h3>
+
+<h3 align="center">Frontend Developer | HTML • CSS • Bootstrap • JavaScript | Learning Full Stack Development</h3>
 
 <p align="center">
-Passionate about Web Development and continuously learning modern web technologies.
+  📍 Rajkot, Gujarat, India 🇮🇳
+</p>
+
+<p align="center">
+  I'm currently learning web development step by step and building my foundation through practice and projects.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently revising **HTML & CSS**
-- 📚 Next, I'm learning **JavaScript**
-- 🚀 After JavaScript, I'll be learning the **MERN Stack**
-- 💡 Interested in **Web Development**
-- 🎯 Goal: Become a Skilled Full Stack Web Developer
+* 🌱 Currently revising **HTML & CSS & Bootstrap**
+* 📚 Next, I will learn **JavaScript**
+* 🚀 Interested in both **PHP Development** and **MERN Stack Development**
+* 🎯 Goal: Become a skilled **Full Stack Web Developer**
 
 ---
 
-## 🛠️ Tech Stack 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,javascript,git,github,vscode" />
-</p>
-
-
-### Frontend
-- ✅ HTML
-- 🟡 CSS
-- 🟡 Bootstrap
-
-### Backend
-- 🟠 PHP
-- 🟠 MySQL
+## 🛠️ My Current Skills
 
 ### Currently Learning
-- 📖 JavaScript
 
-### Future Technologies
-- ⚛ React.js
-- 🟢 Node.js
-- 🚂 Express.js
-- 🍃 MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+</p>
+
+* HTML
+
+### Next Steps
+
+* 🎨 CSS
+* 🧩 Bootstrap
+* ⚡ JavaScript
+
+### Future Goals
+
+* 🐘 PHP & MySQL
+* ⚛️ React.js
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
 
 ---
 
-## 📚 Learning Journey
+## 🎯 My Interests
 
-- ✅ HTML
-- 🔄 CSS (Revision)
-- ⏳ JavaScript
-- ⏳ React.js
-- ⏳ Node.js
-- ⏳ Express.js
-- ⏳ MongoDB
-- 🎯 MERN Stack
-
----
-
-## 🎯 Interests
-
-- 🌐 Web Development
-- 💻 Frontend Development
-- 🚀 Full Stack Development
-- 📱 Responsive Web Design
+* 🌐 Web Development
+* 💻 Frontend Development
+* 🐘 PHP Development
+* 🚀 Full Stack Development
+* 📱 Responsive Web Design
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: **chiraggohel.dev@gmail.com**
+* 📧 Email: **[chiraggohel.dev@gmail.com](mailto:chiraggohel.dev@gmail.com)**
+* 💼 LinkedIn: *Coming Soon*
+* 🌐 Portfolio: *Coming Soon*
+
+---
+
+## 🎯 My Goal
+
+My goal is to build a strong foundation in web development, gain practical experience by creating real projects, and eventually become a professional **Full Stack Web Developer**.
+
+I am currently focusing on learning one technology at a time and improving through consistent practice.
 
 ---
 
 <p align="center">
-✨ Always learning, building, and improving.
+  ✨ Learn • Practice • Build • Improve ✨
 </p>
