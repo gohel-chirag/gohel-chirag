@@ -61,7 +61,7 @@
 
 * 📧 Email: **[chiraggohel.dev@gmail.com](mailto:chiraggohel.dev@gmail.com)**
 * 💼 LinkedIn: *Coming Soon*
-* 🌐 Portfolio: *Coming Soon*
+* 🌐 Portfolio: chiraggohel.netlify.app
 
 ---
 
