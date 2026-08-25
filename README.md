@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently revising **HTML & CSS & Bootstrap**
-* 📚 Next, I will learn **JavaScript**
-* 🚀 Interested in both **PHP Development** and **MERN Stack Development**
-* 🎯 Goal: Become a skilled **Full Stack Web Developer**
+* Currently revising **HTML & CSS & Bootstrap**
+* Next, I will learn **JavaScript**
+* Interested in both **PHP Development** and **MERN Stack Development**
+* oal: Become a skilled **Full Stack Web Developer**
 
 ---
 
@@ -33,17 +33,17 @@
 
 ### Next Steps
 
-* 🎨 CSS
-* 🧩 Bootstrap
-* ⚡ JavaScript
+* CSS
+* Bootstrap
+* JavaScript
 
 ### Future Goals
 
-* 🐘 PHP & MySQL
-* ⚛️ React.js
-* 🟢 Node.js
-* 🚂 Express.js
-* 🍃 MongoDB
+* PHP & MySQL
+* React.js
+* Node.js
+* Express.js
+* MongoDB
 
 ---
 
@@ -74,5 +74,5 @@ I am currently focusing on learning one technology at a time and improving throu
 ---
 
 <p align="center">
-  ✨ Learn • Practice • Build • Improve ✨
+   Learn • Practice • Build • Improve 
 </p>
