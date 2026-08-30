@@ -26,14 +26,14 @@
 ### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 * HTML
+* CSS
 
 ### Next Steps
 
-* CSS
 * Bootstrap
 * JavaScript
 
