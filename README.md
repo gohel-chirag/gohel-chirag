@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gohel Chirag</h1>
+<h1 align="center">Hi👋🏻, I'm Gohel Chirag</h1>
 
 <h3 align="center">Frontend Developer | HTML • CSS • Bootstrap • JavaScript | Learning Full Stack Development</h3>
 
@@ -12,12 +12,12 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑🏻‍💻 About Me
 
 * Currently revising **HTML & CSS & Bootstrap**
 * Next, I will learn **JavaScript**
-* Interested in both **PHP Development** and **MERN Stack Development**
-* oal: Become a skilled **Full Stack Web Developer**
+* Interested in both **PHP Development** / **MERN Stack Development**
+* Goal: Become a skilled **Full Stack Web Developer**
 
 ---
 
