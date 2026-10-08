@@ -60,7 +60,7 @@
 ## 📫 Contact
 
 * 📧 Email: **[chiraggohel.dev@gmail.com](mailto:chiraggohel.dev@gmail.com)**
-* 💼 LinkedIn: *Coming Soon*
+* 💼 LinkedIn: https://www.linkedin.com/in/chirag-gohel
 * 🌐 Portfolio: [chiraggohel.netlify.app](https://chiraggohel.netlify.app/)
 
 ---
