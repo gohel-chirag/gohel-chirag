@@ -26,15 +26,11 @@
 ### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 * HTML
 * CSS
-
-### Next Steps
-
-* Bootstrap
 * JavaScript
 
 ### Future Goals
@@ -60,7 +56,7 @@
 ## 📫 Contact
 
 * 📧 Email: **[chiraggohel.dev@gmail.com](mailto:chiraggohel.dev@gmail.com)**
-* 💼 LinkedIn: https://www.linkedin.com/in/chirag-gohel
+* 💼 LinkedIn: [chirag-gohel](https://www.linkedin.com/in/chirag-gohel)
 * 🌐 Portfolio: [chiraggohel.netlify.app](https://chiraggohel.netlify.app/)
 
 ---
