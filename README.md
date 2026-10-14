@@ -26,11 +26,12 @@
 ### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
 * HTML
 * CSS
+* Bootstrap
 * JavaScript
 
 ### Future Goals
