@@ -26,7 +26,7 @@
 ### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,msword" />
 </p>
 
 * HTML
