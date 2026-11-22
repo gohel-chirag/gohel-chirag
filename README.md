@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋🏻, I'm Gohel Chirag</h1>
 
-<h3 align="center">Frontend Developer | HTML • CSS • Bootstrap • JavaScript | Learning Full Stack Development</h3>
+<h3 align="center">Frontend Developer | HTML • CSS • Bootstrap • JavaScript | Full Stack Development</h3>
 
 <p align="center">
   📍 Rajkot, Gujarat, India 🇮🇳
@@ -14,33 +14,17 @@
 
 ## 🧑🏻‍💻 About Me
 
-* Currently revising **HTML & CSS & Bootstrap**
-* Next, I will learn **JavaScript**
-* Interested in both **PHP Development** / **MERN Stack Development**
+* Interested in both **PHP Development**
 * Goal: Become a skilled **Full Stack Web Developer**
 
 ---
 
 ## 🛠️ My Current Skills
 
-### Currently Learning
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,word" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql" />
 </p>
 
-* HTML
-* CSS
-* Bootstrap
-* JavaScript
-
-### Future Goals
-
-* PHP & MySQL
-* React.js
-* Node.js
-* Express.js
-* MongoDB
 
 ---
 
