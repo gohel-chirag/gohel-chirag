@@ -40,9 +40,9 @@
 
 ## 📂 Projects 
 
-* <b>Rolex Watch Store :</b> ( Watch Management System ) [ july-oct 2026 ]
+* <b>Rolex Watch Store :</b> ( Watch Management System ) [ Duration : july-october 2026 ]<br>
   🌐 : [rolex-watches](https://rolex-watches.free.nf/)
-
+  
 ---
 
 ## 📫 Contact
