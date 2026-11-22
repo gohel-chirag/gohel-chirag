@@ -38,6 +38,13 @@
 
 ---
 
+## 📂 Projects 
+
+* <b>Rolex Watch Store :</b> ( Watch Management System ) [ july-oct 2026 ]
+  🌐 : [rolex-watches](https://rolex-watches.free.nf/)
+
+---
+
 ## 📫 Contact
 
 * 📧 Email: **[chiraggohel.dev@gmail.com](mailto:chiraggohel.dev@gmail.com)**
