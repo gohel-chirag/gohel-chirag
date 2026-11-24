@@ -50,9 +50,9 @@
 
 ## 📫 Contact
 
-* 📧 Email: **[chiraggohel.dev@gmail.com](mailto:chiraggohel.dev@gmail.com)**
-* 💼 LinkedIn: [chirag-gohel](https://www.linkedin.com/in/chirag-gohel)
-* 🌐 Portfolio: [chiraggohel.netlify.app](https://chiraggohel.netlify.app/)
+* 📧 Email : **[chiraggohel.dev@gmail.com](mailto:chiraggohel.dev@gmail.com)**
+* 💼 LinkedIn : [chirag-gohel](https://www.linkedin.com/in/chirag-gohel)
+* 🌐 Portfolio : [chiraggohel.netlify.app](https://chiraggohel.netlify.app/)
 
 ---
 
